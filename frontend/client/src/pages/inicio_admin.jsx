@@ -17,7 +17,7 @@ const OpcionesAdminPage = () => {
               Administrar Clientes
             </Link>
             <Link to="/infraestructura" className="botonAD">
-              Administrar Infraestructura
+              .
             </Link>
           </div>
           <div className="boton-atras-container">
